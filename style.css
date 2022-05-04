@@ -1,0 +1,46 @@
+h1,
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+
+    width: 500px;
+    height: 300px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list {
+    text-align: center;
+
+}
+
+.top-5__list {
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+button {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.top-5__header {
+    color: red;
+}
+
+.top-5__header.top-5__header--colorized {
+    color: pink;
+    font-size: 2rem;
+}
